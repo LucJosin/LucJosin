@@ -5,7 +5,7 @@
 
 - I’m currently working on... 🤔
 
-- $\color{color-code}{{\rm your text here}}$ 
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
  
 - I’m currently learning <b>Flutter</b>
 
