@@ -15,8 +15,8 @@
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
-<a href="br.linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30" width="100" /></a>
-<a href="instagram.com" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" height="30" width="100" /></a>
+<a href="br.linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="40" width="100" /></a>
+<a href="instagram.com" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" height="40" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
