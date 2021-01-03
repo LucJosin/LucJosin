@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://flutter.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" height="30" width="100" /></a>
 <a href="https://kotlinlang.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="30" width="100" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height3050" width="100" /></a>
+<a href="https://www.w3.org/html/" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" width="100" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30" width="100" /></a>
 </p>
 
