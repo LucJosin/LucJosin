@@ -15,10 +15,10 @@
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
- <a href="br.linkedin.com" target="_blank">
+ <a href="https://www.linkedin.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30" width="100" />
  </a>
- <a href="instagram.com" target="_blank">
+ <a href="https://www.instagram.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Instagram" height="30" width="100" />
  </a>
 </p>
