@@ -2,6 +2,14 @@
 
 <h1 align="center">Welcome to my World 🌎</h1>
 
+- a
+ 
+- a
+
+- a
+
+- a
+
 <h3 align="left">Where to find me:</h3>
 <p align="left">
 <a href="br.linkedin.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="" height="30" width="40" /></a>
