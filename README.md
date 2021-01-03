@@ -4,6 +4,8 @@
 <p>My name is Lucas Pinheiro, I'm a programmer. </p>
 
 - I’m currently working on... 🤔
+
+- $\color{color-code}{{\rm your text here}}$ 
  
 - I’m currently learning <b>Flutter</b>
 
