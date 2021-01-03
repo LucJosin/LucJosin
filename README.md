@@ -16,10 +16,10 @@
 <h3 align="left">Where to find me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="Linkedin" height="30" width="100" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="Linkedin" height="30" width="40" />
  </a>
  <a href="https://www.instagram.com/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="Instagram" height="30" width="100" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="Instagram" height="30" width="40" />
  </a>
 </p>
 
