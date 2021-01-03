@@ -19,7 +19,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="Linkedin" height="30" width="100" />
  </a>
  <a href="https://www.instagram.com/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" width="100" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="Instagram" height="30" width="100" />
  </a>
 </p>
 
