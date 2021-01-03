@@ -2,15 +2,17 @@
 
 <h1 align="center">Welcome to my World 🌎</h1>
 
-<p align="left">My name is Lucas Pinheiro, I'm a programmer. 
+<h2 align="left">My name is Lucas Pinheiro, I'm a programmer. </h2>
 
 - I’m currently working on... 🤔
  
-- I’m currently learning <b>Flutter<b>
+- I’m currently learning <b>Flutter</b>
 
 - I’m looking to collaborate on everything i can
 
 - 🦉
+
+>"For in dreams we enter a world that is entirely our own. Let them swim in the deepest ocean or glide over the highest cloud."
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
