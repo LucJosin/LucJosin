@@ -2,15 +2,15 @@
 
 <h1 align="center">Welcome to my World 🌎</h1>
 
-<p align="left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<p align="left">My name is Lucas Pinheiro, I'm a programmer. 
 
-- I’m currently learning <b>Flutter<b>
+- I’m currently working on... 🤔
  
-- a
+- I’m currently learning <b>Flutter<b>
 
-- a
+- I’m looking to collaborate on everything i can
 
-- a
+- 🦉
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
