@@ -4,6 +4,8 @@
 <p>My name is Lucas Pinheiro, I'm a programmer. </p>
 
 - I’m currently working on... 🤔
+
+- <span style="color:blue">some *blue* text</span>
  
 - I’m currently learning <span style="color:blue">Flutter</span>
 
