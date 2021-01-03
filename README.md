@@ -8,9 +8,9 @@
  
 - I’m currently learning <b>Flutter</b>
 
-- I’m looking to collaborate on everything i can
+- I’m looking to collaborate on <b>everything i can</b>
 
-- 🦉
+- I ❤️ 🦉
 
 >"For in dreams we enter a world that is entirely our own. Let them swim in the deepest ocean or glide over the highest cloud."
 
