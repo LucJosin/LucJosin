@@ -5,7 +5,7 @@
 
 - I’m currently working on... 🤔
  
-- I’m currently learning <b class="link-gray">Flutter</b>
+- I’m currently learning <span style="color:blue">Flutter</span>
 
 - I’m looking to collaborate on <b>everything i can</b>
 
