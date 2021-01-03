@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/zGFD0LU.jpg)](https://github.com/LucasPJS)
+[![MasterHead](https://i.imgur.com/hvQC5tJ.jpg)](https://github.com/LucasPJS)
 
 <h1 align="center">Welcome to my World 🌎</h1>
 <p>My name is Lucas Pinheiro, I'm a programmer. </p>
