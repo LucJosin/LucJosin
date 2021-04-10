@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/hvQC5tJ.jpg)](https://github.com/LucasPJS)
+[![MasterHead](https://user-images.githubusercontent.com/76869974/114281864-38a20680-9a17-11eb-8635-4ed4547258d7.jpg)](https://github.com/LucasPJS)
 
 <h1 align="center">Welcome to my World 🌎</h1>
 <p>My name is Lucas Pinheiro, I'm a programmer. </p>
@@ -39,7 +39,7 @@
  </a>
 </p>
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasPJS&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact" alt="LucasPJS" />
+<img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucasPJS&show_icons=true" alt="LucasPJS" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
