@@ -1,7 +1,17 @@
-[![MasterHead](https://user-images.githubusercontent.com/76869974/114281864-38a20680-9a17-11eb-8635-4ed4547258d7.jpg)](https://github.com/LucasPJS)
+[![MasterHead](./images/Banner-4)](https://github.com/LucasPJS)
+
+<!-- https://user-images.githubusercontent.com/76869974/127777072-197eefdb-6185-41ef-ab6f-4cc759e9f37b.jpg -->
 
 <h1 align="center"> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/> Welcome to my World 🌎 </h1>
-<p>My name is Lucas Pinheiro, I'm a programmer. </p>
+<p align="center">
+ <a href="https://dart.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Dark-white?style=for-the-badge" alt="Dark" height="30" width="60" />
+ </a>
+ <a href="https://flutter.dev/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Light-white?style=for-the-badge" alt="Light" height="30" width="60" />
+ </a>
+</p>
+<p>My name is <b>Lucas Josino</b></p>
 
 - I’m currently working on... 🤔
  
@@ -52,7 +62,7 @@
  </a>
 </p>
 
-<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact" alt="LucasPJS" />
-<img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucasPJS&show_icons=true" alt="LucasPJS" />
+<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact&title_color=000&langs_count=6" alt="LucasPJS" />
+<img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucasPJS&show_icons=true&title_color=000&icon_color=000" alt="LucasPJS" />
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
