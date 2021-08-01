@@ -4,10 +4,10 @@
 
 <h1 align="center"> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/> Welcome to my World 🌎 </h1>
 <p align="center">
- <a href="https://dart.dev/" target="_blank">
+ <a href="https://github.com/LucasPJS/LucasPJS/blob/main/README_DARK.md" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dark-white?style=for-the-badge" alt="Dark" height="30" width="60" />
  </a>
- <a href="https://flutter.dev/" target="_blank">
+ <a href="https://github.com/LucasPJS" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Light-white?style=for-the-badge" alt="Light" height="30" width="60" />
  </a>
 </p>
