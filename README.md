@@ -34,6 +34,9 @@
  <a href="https://github.com/LucasPJS" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="StackOverFlow" />
  </a>
+ <a href="https://pub.dev/publishers/lucasjosino.com/packages" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Pub.dev-white?style=for-the-badge&logo=dart&logoColor=black" alt="StackOverFlow" />
+ </a>
 </p>
 
  <a href="https://lucasjosino.com/" target="_blank">
