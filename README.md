@@ -32,10 +32,13 @@
   <img align="center" src="https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="StackOverFlow" />
  </a>
  <a href="https://github.com/LucasPJS" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="StackOverFlow" />
+  <img align="center" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github" />
+ </a>
+ <a href="https://twitter.com/LucasJosino_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
  </a>
  <a href="https://pub.dev/publishers/lucasjosino.com/packages" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Pub.dev-white?style=for-the-badge&logo=dart&logoColor=black" alt="StackOverFlow" />
+  <img align="center" src="https://img.shields.io/badge/Pub.dev-white?style=for-the-badge&logo=dart&logoColor=black" alt="Pubdev" />
  </a>
 </p>
 
