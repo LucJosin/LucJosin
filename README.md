@@ -25,16 +25,16 @@
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
- <a href="https://id.pinterest.com/LucasJosinoPs/" target="_blank">
+ <a href="https://id.pinterest.com/LucJosin/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Pinterest-%23ffffff.svg?&style=for-the-badge&logo=Pinterest&logoColor=black" alt="Pinterest" />
  </a>
- <a href="https://stackoverflow.com/users/14500144/lucas-josino" target="_blank">
+ <a href="https://stackoverflow.com/u/14500144/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="StackOverFlow" />
  </a>
  <a href="https://github.com/LucasPJS" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github" />
  </a>
- <a href="https://twitter.com/LucasJosino_" target="_blank">
+ <a href="https://twitter.com/LucJosin" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
  </a>
  <a href="https://pub.dev/publishers/lucasjosino.com/packages" target="_blank">
