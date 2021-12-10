@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucasPJS">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&height=20&width=220&lines=Hi!;I'm+Lucas;Welcome+to+my+World">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&height=20&width=240&lines=Hi!;I'm+Lucas;Welcome+to+my+World">
   </a>
  🌎
 </h1>
@@ -63,7 +63,9 @@
 
 <br>
 <br>
-<img align="left" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucasPJS" />
+<a href="https://stackoverflow.com/u/14500144/" target="_blank">
+  <img align="left" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucasPJS" />
+</a>
 <br>
 <br>
 <br>
