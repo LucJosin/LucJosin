@@ -41,7 +41,7 @@
  <a href="https://pub.dev/publishers/lucasjosino.com/packages" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Pub.dev-white?style=for-the-badge&logo=dart&logoColor=black" alt="Pubdev" />
  </a>
- <a href="https://linkedin/in/lucjosin" target="_blank">
+ <a href="https://linkedin.com/in/lucjosin" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin" />
  </a>
 </p>
