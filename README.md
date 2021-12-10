@@ -70,5 +70,4 @@
 
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact&title_color=000&langs_count=6" alt="LucasPJS" />
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucasPJS&show_icons=true&title_color=000&icon_color=000" alt="LucasPJS" />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<img align="left" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucasPJS" />
