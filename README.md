@@ -34,11 +34,15 @@
  <a href="https://github.com/LucasPJS" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github" />
  </a>
+ <img align="right" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucasPJS" />
  <a href="https://twitter.com/LucJosin" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
  </a>
  <a href="https://pub.dev/publishers/lucasjosino.com/packages" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Pub.dev-white?style=for-the-badge&logo=dart&logoColor=black" alt="Pubdev" />
+ </a>
+ <a href="https://linkedin/in/lucjosin" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin" />
  </a>
 </p>
 
@@ -70,4 +74,3 @@
 
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact&title_color=000&langs_count=6" alt="LucasPJS" />
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucasPJS&show_icons=true&title_color=000&icon_color=000" alt="LucasPJS" />
-<img align="left" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucasPJS" />
