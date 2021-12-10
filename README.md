@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucasPJS">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&height=20&lines=Hi!;I'm+Lucas;Welcome+to+my+World">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&height=20&width=220&lines=Hi!;I'm+Lucas;Welcome+to+my+World">
   </a>
  🌎
 </h1>
