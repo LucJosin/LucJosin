@@ -34,7 +34,6 @@
  <a href="https://github.com/LucasPJS" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github" />
  </a>
- <img align="right" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucasPJS" />
  <a href="https://twitter.com/LucJosin" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
  </a>
@@ -53,7 +52,14 @@
   <img align="center" src="https://img.shields.io/badge/-contact@lucasjosino.com-white?style=flat-square&logo=Mail.Ru&logoColor=black&link=mailto:contact@lucasjosino.com" alt="Contact" />
  </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<br>
+<img align="left" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucasPJS" />
+<br>
+<br>
+<br>
+
+<h3 align="left">Languages, Tools & Stats:</h3>
 <p align="left">
  <a href="https://dart.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=black" alt="Flutter" height="30" width="90" />
