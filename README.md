@@ -2,7 +2,15 @@
 
 <!-- https://user-images.githubusercontent.com/76869974/127777072-197eefdb-6185-41ef-ab6f-4cc759e9f37b.jpg -->
 
-<h1 align="center"> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/> Welcome to my World 🌎 </h1>
+<!-- <h1 align="center"> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/> Welcome to my World 🌎 </h1> -->
+<h1 align="center">
+  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
+  <a href="https://github.com/LucasPJS">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&height=20&lines=Hi!;I'm+Lucas;Welcome+to+my+World">
+  </a>
+ 🌎
+</h1>
+
 <p align="center">
  <a href="https://github.com/LucasPJS/LucasPJS/blob/main/README_DARK.md" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dark-white?style=for-the-badge" alt="Dark" height="30" width="60" />
@@ -11,7 +19,8 @@
   <img align="center" src="https://img.shields.io/badge/Light-white?style=for-the-badge" alt="Light" height="30" width="60" />
  </a>
 </p>
-<p>My name is <b>Lucas Josino</b></p>
+
+<p>About me:</p>
 
 - I’m currently working on... 🤔
  
