@@ -1,4 +1,4 @@
-[![MasterHead](./images/Banner-4.jpg)](https://github.com/LucasPJS)
+<!--[![MasterHead](./images/Banner-4.jpg)](https://github.com/LucasPJS) -->
 
 <!-- https://user-images.githubusercontent.com/76869974/127777072-197eefdb-6185-41ef-ab6f-4cc759e9f37b.jpg -->
 
