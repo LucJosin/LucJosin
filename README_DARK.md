@@ -1,8 +1,14 @@
-[![MasterHead](./images/Banner-5.jpg)](https://github.com/LucasPJS)
+<!-- [![MasterHead](./images/Banner-5.jpg)](https://github.com/LucasPJS) -->
 
 <!-- https://user-images.githubusercontent.com/76869974/127777072-197eefdb-6185-41ef-ab6f-4cc759e9f37b.jpg -->
 
-<h1 align="center"> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/> Welcome to my World 🌎 </h1>
+<h1 align="center">
+  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
+  <a href="https://github.com/LucasPJS">
+   <img src="https://readme-typing-svg.herokuapp.com?color=%230D1117&center=true&vCenter=true&height=20&width=280&lines=Hi!;I'm+Lucas;Welcome+to+my+World">
+  </a>
+ 🌎
+</h1>
 <p align="center">
  <a href="https://github.com/LucasPJS/LucasPJS/blob/main/README_DARK.md" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dark-%230D1117?style=for-the-badge" alt="Dark" height="30" width="60" />
@@ -11,6 +17,7 @@
   <img align="center" src="https://img.shields.io/badge/Light-%230D1117?style=for-the-badge" alt="Light" height="30" width="60" />
  </a>
 </p>
+
 <p>My name is <b>Lucas Josino</b></p>
 
 - I’m currently working on... 🤔
@@ -40,6 +47,9 @@
  <a href="https://pub.dev/publishers/lucasjosino.com/packages" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Pub.dev-%230D1117?style=for-the-badge&logo=dart&logoColor=white" alt="Pubdev" />
  </a>
+ <a href="https://linkedin.com/in/lucjosin" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Linkedin-%230D1117.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin" />
+ </a>
 </p>
 
  <a href="https://lucasjosino.com/" target="_blank">
@@ -49,7 +59,17 @@
   <img align="center" src="https://img.shields.io/badge/-contact@lucasjosino.com-%230D1117?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:contact@lucasjosino.com" alt="Contact" />
  </a>
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<br>
+<a href="https://stackoverflow.com/u/14500144/" target="_blank">
+  <img align="left" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144?theme=dark" alt="LucasPJS" />
+</a>
+<br>
+<br>
+<br>
+<br>
+
+<h3 align="left">Languages, Tools & Stats:</h3>
 <p align="left">
  <a href="https://dart.dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Dart-%230D1117?style=for-the-badge&logo=dart&logoColor=white" alt="Flutter" height="30" width="90" />
@@ -70,5 +90,3 @@
 
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact&title_color=fff&langs_count=6&text_color=fff&bg_color=0D1117&border_color=343a40" alt="LucasPJS" />
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucasPJS&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0D1117&border_color=343a40" alt="LucasPJS" />
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPJS&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
