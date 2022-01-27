@@ -24,13 +24,13 @@
 
 - I’m currently working on... 🤔
  
-- I’m currently learning <b>Flutter/Dart</b>
+- I’m currently learning about <b>Mobile</b> with <b>Flutter/Dart</b> + <b>Kotlin</b> & <b>Swift</b>
 
 - I’m looking to collaborate on <b>everything i can</b>
 
 - I ❤️ 🦉
 
->"For in dreams we enter a world that is entirely our own. Let them swim in the deepest ocean or glide over the highest cloud."
+> ❝For in dreams we enter a world that is entirely our own. Let them swim in the deepest ocean or glide over the highest cloud.❞
 
 <h3 align="left">Where to find me:</h3>
 <p align="left">
@@ -82,11 +82,20 @@
  <a href="https://kotlinlang.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black" height="30" width="100" />
  </a>
+ <a href="https://www.apple.com/swift/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black" alt="Swift" height="30" width="90" />
+ </a>
+ <a href="/">
+  <img align="center" src="https://img.shields.io/badge/|-white?&style=for-the-badge" alt="Others languages/tools i like to use" height="30" width="30" />
+ </a>
  <a href="https://www.w3.org/html/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" height="30" width="100" />
  </a>
  <a href="https://www.w3schools.com/css/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/CSS-white?&style=for-the-badge&logo=css3&logoColor=black" alt="CSS" height="30" width="90" />
+ </a>
+ <a href="https://www.javascript.com/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/JavaScript-white?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30" width="140" />
  </a>
 </p>
 
