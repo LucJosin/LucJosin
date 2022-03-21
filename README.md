@@ -6,9 +6,9 @@
 <h1 align="center">
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucJosin">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%230D1117&center=true&vCenter=true&height=20&width=280&lines=Hi!;I'm+Lucas;Welcome+to+my+World">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&color=0D1117&center=true&vCenter=true&width=280&height=20&lines=Hi!+I'm+Lucas+Josino+%F0%9F%98%80;Welcome+to+my+World+%F0%9F%8C%8D;lucasjosino.com+%7C+%40LucJosin+%F0%9F%8C%90">
   </a>
- 🌎
+ <img src="./gifs/owl.gif" width="30"/>
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 > ❝For in dreams we enter a world that is entirely our own. Let them swim in the deepest ocean or glide over the highest cloud.❞
 
-<h3 align="left">Where to find me:</h3>
+<h3 align="left">Where to find me <small>(@LucJosin)</small>:</h3>
 <p align="left">
  <a href="https://linkedin.com/in/LucJosin" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin" />
@@ -62,16 +62,6 @@
   <img align="center" src="https://img.shields.io/badge/-contact@lucasjosino.com-white?style=for-the-badge&logo=Mail.Ru&logoColor=black&link=mailto:contact@lucasjosino.com" alt="Contact" />
  </a>
 
-<br>
-<br>
-<a href="https://stackoverflow.com/u/14500144/" target="_blank">
-  <img align="left" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/14500144" alt="LucJosin" />
-</a>
-<br>
-<br>
-<br>
-<br>
-
 <h3 align="left">Languages, Tools & Stats:</h3>
 <p align="left">
  <a href="https://dart.dev/" target="_blank">
@@ -100,5 +90,6 @@
  </a>
 </p>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucJosin&layout=compact&title_color=000&langs_count=6" alt="LucJosin" />
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucJosin&show_icons=true&title_color=000&icon_color=000" alt="LucJosin" />
