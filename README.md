@@ -23,7 +23,7 @@
 <p>About me:</p>
 
 - I’m currently working on... 🤔
- 
+
 - I’m currently learning about <b>Mobile</b> with <b>Flutter/Dart</b> + <b>Kotlin</b> & <b>Swift</b>
 
 - I’m looking to collaborate on <b>everything i can</b>
@@ -54,7 +54,7 @@
  </a>
 </p>
 
-<h3 align="left">Website | Contact:</h3>
+<h3 align="left">Website & Contact:</h3>
  <a href="https://www.lucasjosino.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucasjosino.com-white?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iQ2FtYWRhXzEiIGRhdGEtbmFtZT0iQ2FtYWRhIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1MS44OSAzMzIuOTMiPjxkZWZzPjxzdHlsZT4uY2xzLTF7c3Ryb2tlOiMwMDA7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5sZy1kazwvdGl0bGU+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNzY1LjM1LDUxNS4yNmwtMzAuNzYtNDAuODlhLjQ4LjQ4LDAsMCwxLS4wNi0uNDljOS42LTIxLjYsMjIuNDMtMzMuNzMsMjQuMjktMzUuNDFhLjQ5LjQ5LDAsMCwwLC4xMy0uNWwtMTEtMzYuMTZhLjQ4LjQ4LDAsMCwwLS45LDBjLTEwLjM5LDI0Ljg5LTM2LDMzLjc0LTM4Ljg2LDM0LjY2YS40My40MywwLDAsMS0uNDYtLjFjLTEyLjkzLTEyLjYtNDIuNjctNjcuNzEtNDQuNTgtNzEuMjZhLjQuNCwwLDAsMSwwLS4zN2MxLjI5LTMuMjQsMS4wNi05LjI5LDEtMTEuMDZhLjQ3LjQ3LDAsMCwwLS41My0uNDVjLTE0LjgsMS41My0xNi4yNiwxMy41Mi0xNi4zNywxNC42MmEuNDEuNDEsMCwwLDAsMCwuMTZsMy4xOCwxMS42OGEyMS4yNywyMS4yNywwLDAsMCwxLjkxLDQuNzVsNy44OSwxNC4zN0w2ODYuODIsNDQyYS40OC40OCwwLDAsMS0uMjkuNzJjLTI2LDYuMjYtNzkuNTQsMy43Mi04Ni4wOCwzLjM4YS40Ny40NywwLDAsMS0uNDEtLjY1YzIuMzUtNS43NywyMC45Mi01MSwzOS4zOC04MC42MywxOC4zLTI5LjQzLTEuODMtNDQuNjgtNC44OC00Ni43NmEuNDYuNDYsMCwwLDAtLjY0LjEyTDYyNiwzMjguNDlhLjQ5LjQ5LDAsMCwwLC4yOS43NmM2LjU0LDEuMzQtLjIsMTIuMzQtLjM2LDEyLjZoMEw1NzEuNDQsNDQyLjU3YS40OC40OCwwLDAsMS0uNDcuMjVjLTM1LjM4LTMuMTctNDQuNDUtNi45Mi00Ni4yOC03LjlhLjQ4LjQ4LDAsMCwwLS42NC4xOGwtOS40MywxNi4xNGEuNDcuNDcsMCwwLDAsMCwuNTNMNTQ1LjQ1LDQ5M2EuNDguNDgsMCwwLDEsMCwuNUM1MzUuMiw1MTUuMzMsNTIyLjgyLDUyNy4zLDUyMSw1MjlhLjQ3LjQ3LDAsMCwwLS4xMy41bDExLjkzLDM2LjU5Ljk1LDBjNi44Mi0yMy43NiwzNC4xOC0zMy45MiwzNy41Mi0zNS4wOGEuNDcuNDcsMCwwLDEsLjU0LjE4YzMuMjUsNC42Niw0NC44NCw2NC4zMiw0Niw3MS4yMWExOC44NCwxOC44NCwwLDAsMS0xLjE0LDEwLjgxLjQ3LjQ3LDAsMCwwLC40NS42N2MyOC45Mi0uOTIsMTAuNzgtMzQuODgtNS42OC02MC40NC04LjgtMTMuNjUtMTYuMjUtMjUtMTcuODItMjcuNDFhLjQ4LjQ4LDAsMCwxLC4xOS0uN0M2MTIsNTE3LDY3Myw1MjEuMSw2ODAuMjUsNTIxLjYzYS40OC40OCwwLDAsMSwuMzkuNjlMNjQyLjMsNTk5bDAsMGMtMjAuMzksMzQuMDkuOTQsNDguODEsNC4xMyw1MC43NmEuNDguNDgsMCwwLDAsLjY0LS4xNGw2LjktMTBhMS4zNSwxLjM1LDAsMCwwLS4xOS0xLjc2Yy0yLjExLTEuOTItMi4zMS0xMiwwLTExLjMzLDIuNjcuNzIsNTEuNTUtOTUuNTYsNTQuNi0xMDEuNThhLjUuNSwwLDAsMSwuNDktLjI3YzM3LjM2LDMuNDIsNDQuODIsNi4zOCw0Ni4zLDcuNWEuNDkuNDksMCwwLDAsLjcyLS4xNGw5LjQ4LTE2LjI0QS40Ny40NywwLDAsMCw3NjUuMzUsNTE1LjI2Wk01NjAuMTcsNDY2LjYybC0yLjQxLDUuMTVhLjc2Ljc2LDAsMCwxLTEuMjkuMTRsLTQtNS4xN2EuNjQuNjQsMCwwLDEsLjUtMWg2LjYyQS42NC42NCwwLDAsMSw1NjAuMTcsNDY2LjYyWm0xMzMuMTIsMzEuOWMtNDMtNS42Ny0xMTQsNS4xMi0xMTQsNS4xMkw1NzMsNDk1LjM5bDE0LjQyLTI2LjA5YzU2LDIuNDUsMTE0LjUtNS42MiwxMTQuNS01LjYybDUuMTcsOFptMzMuMTIsMi41NC00Ljc3LjM0YTEuMDYsMS4wNiwwLDAsMS0xLTEuNDVsMi00LjkxYTEsMSwwLDAsMSwxLjg3LS4xNWwyLjc3LDQuNTdBMS4wNSwxLjA1LDAsMCwxLDcyNi40MSw1MDEuMDZaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNTE0LjA1IC0zMTcuNDMpIi8+PC9zdmc+&logoColor=black&link=mailto:lucasjosino.com" alt="Website" /> 
  </a>
@@ -90,6 +90,7 @@
  </a>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucJosin&layout=compact&title_color=000&langs_count=6" alt="LucJosin" />
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucJosin&show_icons=true&title_color=000&icon_color=000" alt="LucJosin" />
