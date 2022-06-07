@@ -11,15 +11,6 @@
  <img src="./gifs/owl.gif" width="30"/>
 </h1>
 
-<p align="center">
- <a href="https://github.com/LucJosin/LucJosin/blob/main/README_DARK.md" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Dark-white?style=for-the-badge" alt="Dark" height="30" width="60" />
- </a>
- <a href="https://github.com/LucJosin" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Light-white?style=for-the-badge" alt="Light" height="30" width="60" />
- </a>
-</p>
-
 <p>About me:</p>
 
 - I’m currently working on... 🤔
@@ -90,7 +81,7 @@
  </a>
 </p>
 
-[![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucJosin&layout=compact&title_color=000&langs_count=6" alt="LucJosin" />
 <img align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=LucJosin&show_icons=true&title_color=000&icon_color=000" alt="LucJosin" />
