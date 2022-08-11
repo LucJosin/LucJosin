@@ -66,6 +66,7 @@
  </a>
 </p>
 
+<p>
 <h3 align="left">Website & Contact:</h3>
  <a href="https://www.lucasjosino.com/" target="_blank">
   <picture>
@@ -79,6 +80,7 @@
     <img align="center" alt="Contact" src="https://img.shields.io/badge/-contact@lucasjosino.com-white?style=for-the-badge&logo=Mail.Ru&logoColor=black&link=mailto:contact@lucasjosino.com">
   </picture>
  </a>
+ </p>
 
 <!-- [![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
