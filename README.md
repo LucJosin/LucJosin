@@ -80,58 +80,6 @@
   </picture>
  </a>
 
-<h3 align="left">Languages, Tools & Stats:</h3>
-<p align="left">
- <a href="https://dart.dev/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dart-%230D1117?style=for-the-badge&logo=dart&logoColor=white">
-    <img height="30" width="90" align="center" alt="Dart" src="https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=black">
-  </picture>
- </a>
- <a href="https://flutter.dev/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-%230D1117?style=for-the-badge&logo=flutter&logoColor=white">
-    <img height="30" width="100" align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=black">
-  </picture>
- </a>
- <a href="https://kotlinlang.org/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kotlin-%230D1117?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img height="30" width="100" align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black">
-  </picture>
- </a>
- <a href="https://www.apple.com/swift/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swift-%230D1117?&style=for-the-badge&logo=swift&logoColor=white">
-    <img height="30" width="90" align="center" alt="Swift" src="https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black">
-  </picture>
- </a>
- <a href="/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/|-%230D1117?&style=for-the-badge">
-    <img height="30" width="30" align="center" alt="Divider" src="https://img.shields.io/badge/|-white?&style=for-the-badge">
-  </picture>
- </a>
- <a href="https://www.w3.org/html/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML-%230D1117?style=for-the-badge&logo=html5&logoColor=white">
-    <img height="30" width="100" align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=black">
-  </picture>
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS-%230D1117?&style=for-the-badge&logo=css3&logoColor=white">
-    <img height="30" width="90" align="center" alt="CSS" src="https://img.shields.io/badge/CSS-white?&style=for-the-badge&logo=css3&logoColor=black">
-  </picture>
- </a>
- <a href="https://www.javascript.com/" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-%230D1117?&style=for-the-badge&logo=javascript&logoColor=white">
-    <img height="30" width="140" align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-white?&style=for-the-badge&logo=javascript&logoColor=black">
-  </picture>
- </a>
-</p>
-
 <!-- [![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <picture>
