@@ -7,8 +7,8 @@
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucJosin">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fredoka&color=fff&center=true&vCenter=true&width=280&height=20&lines=Hi!+I'm+Lucas+Josino+%F0%9F%98%80;Welcome+to+my+World+%F0%9F%8C%8D;lucasjosino.com+%7C+%40LucJosin+%F0%9F%8C%90">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&color=0D1117&center=true&vCenter=true&width=280&height=20&lines=Hi!+I'm+Lucas+Josino+%F0%9F%98%80;Welcome+to+my+World+%F0%9F%8C%8D;lucasjosino.com+%7C+%40LucJosin+%F0%9F%8C%90">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=fff&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin">
+      <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=0D1117&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin">
     </picture>
   </a>
  <img src="./gifs/owl.gif" width="30"/>
