@@ -84,11 +84,9 @@
 
 <!-- [![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucJosin&layout=compact&title_color=fff&langs_count=6&text_color=fff&bg_color=0D1117&border_color=343a40">
-    <img height="170" align="left" alt="LucJosin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucJosin&layout=compact&title_color=000&langs_count=6">
-</picture>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LucJosin&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0D1117&border_color=343a40">
-    <img height="170" align="right" alt="LucJosin" src="https://github-readme-stats.vercel.app/api?username=LucJosin&show_icons=true&title_color=000&icon_color=000">
-</picture>
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/LucJosin/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/LucJosin/github-stats-transparent/output/generated/languages.svg)
+
+</a>
