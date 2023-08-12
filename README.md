@@ -16,9 +16,9 @@
 
 <p>About me:</p>
 
-- I’m currently working on... 🤔
+- I’m currently working on my side project: [HawAPI](https://github.com/HawAPI)
 
-- I’m currently learning about <b>Mobile</b> with <b>Flutter/Dart</b> + <b>Kotlin</b> & <b>Swift</b>
+- I’m currently learning about <b>Backend & APIs</b> with <b>Java</b> + <b>Spring Boot</b>
 
 - I’m looking to collaborate on <b>everything i can</b>
 
@@ -40,22 +40,16 @@
     <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black">
   </picture>
  </a>
- <a href="https://pub.dev/publishers/lucasjosino.com/packages" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pub.dev-%230D1117?style=for-the-badge&logo=dart&logoColor=white">
-    <img align="center" alt="Pubdev" src="https://img.shields.io/badge/Pub.dev-white?style=for-the-badge&logo=dart&logoColor=black">
-  </picture>
- </a>
  <a href="https://twitter.com/LucJosin" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Twitter-%230D1117?style=for-the-badge&logo=twitter&logoColor=white">
     <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black">
   </picture>
  </a>
- <a href="https://id.pinterest.com/LucJosin/" target="_blank">
+ <a href="https://bsky.app/profile/lucjos.in" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Pinterest-%230D1117.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
-    <img align="center" alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23ffffff.svg?&style=for-the-badge&logo=Pinterest&logoColor=black">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bluesky-%230D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Qmx1ZXNreTwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6IHJnYigyNTUsIDI1NSwgMjU1KSIgZD0iTTE5LjUgMEE0LjUgNC41IDAgMCAxIDI0IDQuNXYxNWE0LjUgNC41IDAgMCAxLTQuNSA0LjVoLTE1QTQuNSA0LjUgMCAwIDEgMCAxOS41di0xNUE0LjUgNC41IDAgMCAxIDQuNSAwaDE1Wm0tLjEyOCAxNC4yNjctLjgyNi43NzItMS4wOC0uNzcyLTEuOTQyIDEuNTQ0IDEuOTQyLS43NzIgMS4wOC43NzIuODI2LS43NzJoMS4yMDVsLTEuMjA1LS43NzJaTTQuNTA0IDEybC0xLjk3MyAxLjA1OSAxLjk3My0uMjM3IDEuNzA0IDEuNDQ1IDIuMDM4LTEuMTMzIDEuODE5LjcxNi0xLjgxOS0xLjMyLTIuMDM4LjUyOUw0LjUwNCAxMlptMTAuOTU5LTQuODc1cy0uODI5LjM2LTIuNDg2IDEuMDgzbC0xLjk2LTEuMDgzLS4wMi4wMDktMy44NzIgMS43MiAzLjg5Mi0uNjQ2IDEuOTYgMi4wNjMgMi40ODYtMi4wNjMgNC42MjUgMi4wNjMtNC42MjUtMy4xNDZaIi8+PC9zdmc+Cg==">
+    <img align="center" alt="Bluesky" src="[https://img.shields.io/badge/Pinterest-%23ffffff.svg?&style=for-the-badge&logo=Pinterest&logoColor=black](https://img.shields.io/badge/Bluesky-%23ffffff?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Qmx1ZXNreTwvdGl0bGU+PHBhdGggc3R5bGU9ImZpbGw6IHJnYigwLCAwLCAwKSIgZD0iTTE5LjUgMEE0LjUgNC41IDAgMCAxIDI0IDQuNXYxNWE0LjUgNC41IDAgMCAxLTQuNSA0LjVoLTE1QTQuNSA0LjUgMCAwIDEgMCAxOS41di0xNUE0LjUgNC41IDAgMCAxIDQuNSAwaDE1Wm0tLjEyOCAxNC4yNjctLjgyNi43NzItMS4wOC0uNzcyLTEuOTQyIDEuNTQ0IDEuOTQyLS43NzIgMS4wOC43NzIuODI2LS43NzJoMS4yMDVsLTEuMjA1LS43NzJaTTQuNTA0IDEybC0xLjk3MyAxLjA1OSAxLjk3My0uMjM3IDEuNzA0IDEuNDQ1IDIuMDM4LTEuMTMzIDEuODE5LjcxNi0xLjgxOS0xLjMyLTIuMDM4LjUyOUw0LjUwNCAxMlptMTAuOTU5LTQuODc1cy0uODI5LjM2LTIuNDg2IDEuMDgzbC0xLjk2LTEuMDgzLS4wMi4wMDktMy44NzIgMS43MiAzLjg5Mi0uNjQ2IDEuOTYgMi4wNjMgMi40ODYtMi4wNjMgNC42MjUgMi4wNjMtNC42MjUtMy4xNDZaIi8+PC9zdmc+Cg==)">
   </picture>
  </a>
  <a href="https://stackoverflow.com/u/14500144/" target="_blank">
