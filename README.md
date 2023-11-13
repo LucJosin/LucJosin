@@ -81,7 +81,14 @@
 <h3 align="left">Posts:</h3>
 <div align="left">
 
-[<img align="left" style="margin-right: 1rem;" height="110px" width="180px" alt="Warpnet" src="https://astro.build/og/social.jpg"/>](https://hawapi.theproject.id/)
+[<img align="left" style="margin-right: 1rem;" height="115px" width="190px" alt="Warpnet" src="https://astro.build/og/social.jpg"/>](https://hawapi.theproject.id/)
+
+**How to hash class names in Astro using astro-rename integration** \
+**How to** • October 14, 2023 • 6 min read \
+Tags: `Astro`, `Integration`, `PostCSS`, `CSS` \
+Learn how to use the astro-rename integration to hash all CSS class names from your Astro project
+
+[<img align="left" style="margin-right: 1rem;" height="115px" width="190px" alt="Warpnet" src="https://astro.build/og/social.jpg"/>](https://hawapi.theproject.id/)
 
 **How to hash class names in Astro using astro-rename integration** \
 **How to** • October 14, 2023 • 6 min read \
