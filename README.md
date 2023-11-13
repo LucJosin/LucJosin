@@ -79,7 +79,7 @@
  </p>
 
 <h3 align="left">Posts:</h3>
-<div align="center" style="text-align: left;">
+<div align="left">
 
 [<img align="left" style="margin-right: 1rem;" height="110px" width="180px" alt="Warpnet" src="https://astro.build/og/social.jpg"/>](https://hawapi.theproject.id/)
 
