@@ -27,7 +27,7 @@
 > ❝For in dreams we enter a world that is entirely our own. Let them swim in the deepest ocean or glide over the highest cloud.❞
 
 <h3 align="left">Where to find me <small>(@LucJosin)</small>:</h3>
-<p align="center">
+<p>
  <a href="https://linkedin.com/in/LucJosin#gh-dark-mode-only" target="_blank">
   <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%230D1117.svg?&style=for-the-badge&logo=Linkedin&logoColor=white#gh-dark-mode-only">
  </a>
@@ -62,7 +62,7 @@
 
 <p>
 <h3 align="left">Website & Contact:</h3>
-<div align="center">
+<div>
  <a href="https://www.lucasjosino.com/#gh-dark-mode-only" target="_blank">
   <img align="center" alt="Website" src="https://img.shields.io/badge/-lucasjosino.com-%230D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iQ2FtYWRhXzEiIGRhdGEtbmFtZT0iQ2FtYWRhIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1MS44OSAzMzIuOTMiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojZmZmO3N0cm9rZTojZmZmO3N0cm9rZS1taXRlcmxpbWl0OjEwO308L3N0eWxlPjwvZGVmcz48dGl0bGU+bGctbHQ8L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTc2NS4zNSw1MTUuMjZsLTMwLjc2LTQwLjg5YS40OC40OCwwLDAsMS0uMDYtLjQ5YzkuNi0yMS42LDIyLjQzLTMzLjczLDI0LjI5LTM1LjQxYS40OS40OSwwLDAsMCwuMTMtLjVsLTExLTM2LjE2YS40OC40OCwwLDAsMC0uOSwwYy0xMC4zOSwyNC44OS0zNiwzMy43NC0zOC44NiwzNC42NmEuNDMuNDMsMCwwLDEtLjQ2LS4xYy0xMi45My0xMi42LTQyLjY3LTY3LjcxLTQ0LjU4LTcxLjI2YS40LjQsMCwwLDEsMC0uMzdjMS4yOS0zLjI0LDEuMDYtOS4yOSwxLTExLjA2YS40Ny40NywwLDAsMC0uNTMtLjQ1Yy0xNC44LDEuNTMtMTYuMjYsMTMuNTItMTYuMzcsMTQuNjJhLjQxLjQxLDAsMCwwLDAsLjE2bDMuMTgsMTEuNjhhMjEuMjcsMjEuMjcsMCwwLDAsMS45MSw0Ljc1bDcuODksMTQuMzdMNjg2LjgyLDQ0MmEuNDguNDgsMCwwLDEtLjI5LjcyYy0yNiw2LjI2LTc5LjU0LDMuNzItODYuMDgsMy4zOGEuNDcuNDcsMCwwLDEtLjQxLS42NWMyLjM1LTUuNzcsMjAuOTItNTEsMzkuMzgtODAuNjMsMTguMy0yOS40My0xLjgzLTQ0LjY4LTQuODgtNDYuNzZhLjQ2LjQ2LDAsMCwwLS42NC4xMkw2MjYsMzI4LjQ5YS40OS40OSwwLDAsMCwuMjkuNzZjNi41NCwxLjM0LS4yLDEyLjM0LS4zNiwxMi42aDBMNTcxLjQ0LDQ0Mi41N2EuNDguNDgsMCwwLDEtLjQ3LjI1Yy0zNS4zOC0zLjE3LTQ0LjQ1LTYuOTItNDYuMjgtNy45YS40OC40OCwwLDAsMC0uNjQuMThsLTkuNDMsMTYuMTRhLjQ3LjQ3LDAsMCwwLDAsLjUzTDU0NS40NSw0OTNhLjQ4LjQ4LDAsMCwxLDAsLjVDNTM1LjIsNTE1LjMzLDUyMi44Miw1MjcuMyw1MjEsNTI5YS40Ny40NywwLDAsMC0uMTMuNWwxMS45MywzNi41OS45NSwwYzYuODItMjMuNzYsMzQuMTgtMzMuOTIsMzcuNTItMzUuMDhhLjQ3LjQ3LDAsMCwxLC41NC4xOGMzLjI1LDQuNjYsNDQuODQsNjQuMzIsNDYsNzEuMjFhMTguODQsMTguODQsMCwwLDEtMS4xNCwxMC44MS40Ny40NywwLDAsMCwuNDUuNjdjMjguOTItLjkyLDEwLjc4LTM0Ljg4LTUuNjgtNjAuNDQtOC44LTEzLjY1LTE2LjI1LTI1LTE3LjgyLTI3LjQxYS40OC40OCwwLDAsMSwuMTktLjdDNjEyLDUxNyw2NzMsNTIxLjEsNjgwLjI1LDUyMS42M2EuNDguNDgsMCwwLDEsLjM5LjY5TDY0Mi4zLDU5OWwwLDBjLTIwLjM5LDM0LjA5Ljk0LDQ4LjgxLDQuMTMsNTAuNzZhLjQ4LjQ4LDAsMCwwLC42NC0uMTRsNi45LTEwYTEuMzUsMS4zNSwwLDAsMC0uMTktMS43NmMtMi4xMS0xLjkyLTIuMzEtMTIsMC0xMS4zMywyLjY3LjcyLDUxLjU1LTk1LjU2LDU0LjYtMTAxLjU4YS41LjUsMCwwLDEsLjQ5LS4yN2MzNy4zNiwzLjQyLDQ0LjgyLDYuMzgsNDYuMyw3LjVhLjQ5LjQ5LDAsMCwwLC43Mi0uMTRsOS40OC0xNi4yNEEuNDcuNDcsMCwwLDAsNzY1LjM1LDUxNS4yNlpNNTYwLjE3LDQ2Ni42MmwtMi40MSw1LjE1YS43Ni43NiwwLDAsMS0xLjI5LjE0bC00LTUuMTdhLjY0LjY0LDAsMCwxLC41LTFoNi42MkEuNjQuNjQsMCwwLDEsNTYwLjE3LDQ2Ni42MlptMTMzLjEyLDMxLjljLTQzLTUuNjctMTE0LDUuMTItMTE0LDUuMTJMNTczLDQ5NS4zOWwxNC40Mi0yNi4wOWM1NiwyLjQ1LDExNC41LTUuNjIsMTE0LjUtNS42Mmw1LjE3LDhabTMzLjEyLDIuNTQtNC43Ny4zNGExLjA2LDEuMDYsMCwwLDEtMS0xLjQ1bDItNC45MWExLDEsMCwwLDEsMS44Ny0uMTVsMi43Nyw0LjU3QTEuMDUsMS4wNSwwLDAsMSw3MjYuNDEsNTAxLjA2WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUxNC4wNSAtMzE3LjQzKSIvPjwvc3ZnPg==&logoColor=white&link=mailto:lucasjosino.com#gh-dark-mode-only">
  </a>
@@ -78,9 +78,24 @@
  </div>
  </p>
 
+<p align="center">
+<h3 align="left">Posts:</h3>
+<div align="center" style="text-align: left;">
+
+[<img align="left" style="margin-right: 1rem;" height="110px" width="180px" alt="Warpnet" src="https://astro.build/og/social.jpg"/>](https://hawapi.theproject.id/)
+
+**How to hash class names in Astro using astro-rename integration** \
+**How to** • Astro, Integration, PostCSS, CSS \
+Skills: `Java`, `Spring Boot`, `PostgreSQL`, `Docker`, `JUnit`, `CI/CD` \
+Learn how to use the astro-rename integration to hash all CSS class names from your Astro project
+
+</div>
+</p>
+
 <!-- [![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<div align="center">
+<div>
+<h3 align="left">Stats:</h3>
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
 ![](https://raw.githubusercontent.com/LucJosin/github-stats-transparent/output/generated/overview.svg)
