@@ -78,7 +78,6 @@
  </div>
  </p>
 
-<p align="center">
 <h3 align="left">Posts:</h3>
 <div align="center" style="text-align: left;">
 
@@ -90,7 +89,6 @@ Skills: `Java`, `Spring Boot`, `PostgreSQL`, `Docker`, `JUnit`, `CI/CD` \
 Learn how to use the astro-rename integration to hash all CSS class names from your Astro project
 
 </div>
-</p>
 
 <!-- [![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
