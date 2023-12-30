@@ -47,10 +47,10 @@
   <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black#gh-light-mode-only">
  </a>
  <a href="https://bsky.app/profile/lucjos.in#gh-dark-mode-only" target="_blank">
-  <img align="center" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%230D1117?style=for-the-badge&logo=bluesky#gh-dark-mode-only">
+  <img align="center" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%230D1117?style=for-the-badge&logo=bluesky&logoColor=white#gh-dark-mode-only">
  </a>
  <a href="https://bsky.app/profile/lucjos.in#gh-light-mode-only" target="_blank">
-  <img align="center" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%23ffffff?style=for-the-badge&logo=bluesky#gh-light-mode-only">
+  <img align="center" alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%23ffffff?style=for-the-badge&logo=bluesky&logoColor=black#gh-light-mode-only">
  </a>
  <a href="https://stackoverflow.com/u/14500144/#gh-dark-mode-only" target="_blank">
   <img align="center" alt="StackOverFlow" src="https://img.shields.io/badge/Stack_Overflow-%230D1117?style=for-the-badge&logo=stack-overflow&logoColor=white#gh-dark-mode-only">
