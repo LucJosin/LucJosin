@@ -3,7 +3,7 @@
 <!-- https://user-images.githubusercontent.com/76869974/127777072-197eefdb-6185-41ef-ab6f-4cc759e9f37b.jpg -->
 
 <!-- <h1 align="center"> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/> Welcome to my World 🌎 </h1> -->
-<h1 align="center">
+<div align="center">
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucJosin#gh-dark-mode-only">
     <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=fff&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-dark-mode-only">
@@ -12,7 +12,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=0D1117&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-light-mode-only">
   </a>
  <img src="./gifs/owl.gif" width="30"/>
-</h1>
+</div>
+
+<a href="https://github.com/404"><img src="https://github.com/LucJosin/LucJosin/assets/76869974/f0a9be2d-48be-4ac6-a387-13c518b30a77"></a>
 
 <p>About me:</p>
 
