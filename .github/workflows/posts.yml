@@ -29,7 +29,7 @@ jobs:
           template: |
             <tr>
                 <td>
-                  <a href="$url"><img width="300px" src="$image"></a>
+                  <a href="$url"><img width="500px" src="$image"></a>
                 </td>
                 <td>
                   <b>$title</b>
