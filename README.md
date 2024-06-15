@@ -77,7 +77,7 @@
 <table>
     <!-- BLOG-POST-LIST:START --><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling"><img width="300px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling?utm_source=github.com&utm_medium=profile"><img width="500px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
     </td>
     <td>
       <b>Spring Boot: Using the new filter for trailing slash handling</b>
@@ -90,11 +90,11 @@
       <br/>
       <i>In this tutorial, we’ll explore how to use the new UrlHandlerFilter to handle trailing slash in Spring Boot 3, including how to forward or redirect requests.</i>
       <br/>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling" alt="Read post: Spring Boot: Using the new filter for trailing slash handling">Read more ➜</a>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling?utm_source=github.com&utm_medium=profile" alt="Read post: Spring Boot: Using the new filter for trailing slash handling">Read more ➜</a>
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests"><img width="300px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/ZfgJzcJf/golang-session-tests.png"></a>
+      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests?utm_source=github.com&utm_medium=profile"><img width="500px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/ZfgJzcJf/golang-session-tests.png"></a>
     </td>
     <td>
       <b>Go: How to mock SCS session authentication in tests</b>
@@ -107,11 +107,11 @@
       <br/>
       <i>In this article, we&#39;ll explore how to mock our session when using SCS and inject data into context for authentication tests.</i>
       <br/>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests" alt="Read post: Go: How to mock SCS session authentication in tests">Read more ➜</a>
+      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests?utm_source=github.com&utm_medium=profile" alt="Read post: Go: How to mock SCS session authentication in tests">Read more ➜</a>
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration"><img width="300px" src="https://astro.build/og/social.jpg"></a>
+      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration?utm_source=github.com&utm_medium=profile"><img width="500px" src="https://astro.build/og/social.jpg"></a>
     </td>
     <td>
       <b>How to hash class names in Astro using astro-rename integration</b>
@@ -124,7 +124,7 @@
       <br/>
       <i>Learn how to use the astro-rename integration to hash all CSS class names from your Astro project.</i>
       <br/>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration" alt="Read post: How to hash class names in Astro using astro-rename integration">Read more ➜</a>
+      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration?utm_source=github.com&utm_medium=profile" alt="Read post: How to hash class names in Astro using astro-rename integration">Read more ➜</a>
       </td>
 </tr><!-- BLOG-POST-LIST:END -->
 </table>
