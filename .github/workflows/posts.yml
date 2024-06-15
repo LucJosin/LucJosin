@@ -24,19 +24,22 @@ jobs:
           feed_list: "https://www.lucasjosino.com/rss.xml"
           date_format: "mmm d, yyyy"
           item_exec: |
-            post.image = item.enclosure.url
+            post.thumb = item.enclosure.url
+            console.log(post)
+            console.log(item)
+            console.log(item.enclosure.url)
           template: |
             <tr>
                 <td>
-                  <a href="$url"><img width="300px" src="$image"></a>
+                  <a href="$url"><img width="300px" src="$thumb"></a>
                 </td>
                 <td>
                   <b>$title</b>
                   <br/>
                   <a href="https://www.lucasjosino.com/blog/tags/$categories" alt="See more posts from category: $categories">
-                    <b>$categories<b/>
+                    <b>$categories</b>
                   </a>
-                   • 
+                  • 
                   $date
                   <br/>
                   <i>$description</i>
