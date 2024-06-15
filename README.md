@@ -1,8 +1,3 @@
-<!--[![MasterHead](./images/Banner-4.jpg)](https://github.com/LucJosin) -->
-
-<!-- https://user-images.githubusercontent.com/76869974/127777072-197eefdb-6185-41ef-ab6f-4cc759e9f37b.jpg -->
-
-<!-- <h1 align="center"> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/> Welcome to my World 🌎 </h1> -->
 <div align="center">
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucJosin#gh-dark-mode-only">
@@ -80,9 +75,16 @@
  </div>
  </p>
 
-<!-- [![Lucas Josino's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=LucJosin&bg_color=fff&line=000&color=000&radius=6&area=true&area_color=000&custom_title=Lucas%20Josino%27s%20Contribution%20Graph%20%7C%20lucasjosino.com%20%7C%20%40LucJosin)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<div>
+<h3 align="left">Latest Posts:</h3>
+<table>
+    <!-- BLOG-POST-LIST:START -->
+    <!-- BLOG-POST-LIST:END -->
+</table>
+</div>
 
-<div align="center">
+<div>
+<h3 align="left">Stats:</h3>
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
 ![](https://raw.githubusercontent.com/LucJosin/github-stats-transparent/output/generated/overview.svg)

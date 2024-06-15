@@ -1,0 +1,41 @@
+name: Fetch latest blog posts
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+jobs:
+  update-blog-posts:
+    name: Atualizando README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "github-stats[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          feed_list: "https://www.lucasjosino.com/rss.xml"
+          date_format: "mmm d, yyyy"
+          item_exec: |
+            post.image = item.enclosure.url
+          template: |
+            <tr>
+                <td>
+                  <a href="$url"><img width="300px" src="$image"></a>
+                </td>
+                <td>
+                  <b>$title</b>
+                  <br/>
+                  <a href="https://www.lucasjosino.com/blog/tags/$categories" alt="See more posts from category: $categories">
+                    <b>$categories<b/>
+                  </a>
+                   • 
+                  $date
+                  <br/>
+                  <i>$description</i>
+                  <br/>
+                  <a href="$url" alt="Read post: $title">Read more ➜</a>
+                  </td>
+            </tr>
