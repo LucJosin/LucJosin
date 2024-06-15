@@ -26,6 +26,7 @@ jobs:
           custom_tags: "image/image/"
           item_exec: |
             post.image = item.enclosure.url
+            post.url = post.url?utm_source=github.com&utm_medium=profile
           template: |
             <tr>
                 <td>
