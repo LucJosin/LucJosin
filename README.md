@@ -80,15 +80,15 @@
 <table>
     <!-- BLOG-POST-LIST:START --><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling"><img width="300px" src="$image"></a>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling"><img width="300px" src="$thumb"></a>
     </td>
     <td>
       <b>Spring Boot: Using the new filter for trailing slash handling</b>
       <br/>
       <a href="https://www.lucasjosino.com/blog/tags/How to" alt="See more posts from category: How to">
-        <b>How to<b/>
+        <b>How to</b>
       </a>
-       • 
+      • 
       Jun 13, 2024
       <br/>
       <i>In this tutorial, we’ll explore how to use the new UrlHandlerFilter to handle trailing slash in Spring Boot 3, including how to forward or redirect requests.</i>
@@ -97,15 +97,15 @@
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests"><img width="300px" src="$image"></a>
+      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests"><img width="300px" src="$thumb"></a>
     </td>
     <td>
       <b>Go: How to mock SCS session authentication in tests</b>
       <br/>
       <a href="https://www.lucasjosino.com/blog/tags/How to" alt="See more posts from category: How to">
-        <b>How to<b/>
+        <b>How to</b>
       </a>
-       • 
+      • 
       Feb 1, 2024
       <br/>
       <i>In this article, we&#39;ll explore how to mock our session when using SCS and inject data into context for authentication tests.</i>
@@ -114,15 +114,15 @@
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration"><img width="300px" src="$image"></a>
+      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration"><img width="300px" src="$thumb"></a>
     </td>
     <td>
       <b>How to hash class names in Astro using astro-rename integration</b>
       <br/>
       <a href="https://www.lucasjosino.com/blog/tags/How to" alt="See more posts from category: How to">
-        <b>How to<b/>
+        <b>How to</b>
       </a>
-       • 
+      • 
       Oct 14, 2023
       <br/>
       <i>Learn how to use the astro-rename integration to hash all CSS class names from your Astro project.</i>
