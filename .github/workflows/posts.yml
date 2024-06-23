@@ -19,6 +19,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          max_post_count: 4
           committer_username: "github-stats[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
           feed_list: "https://www.lucasjosino.com/rss.xml"
