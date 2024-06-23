@@ -77,7 +77,7 @@
 <table>
     <!-- BLOG-POST-LIST:START --><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling?utm_source=github.com&utm_medium=profile"><img width="500px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
     </td>
     <td>
       <b>Spring Boot: Using the new filter for trailing slash handling</b>
@@ -94,7 +94,7 @@
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests?utm_source=github.com&utm_medium=profile"><img width="500px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/ZfgJzcJf/golang-session-tests.png"></a>
+      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/ZfgJzcJf/golang-session-tests.png"></a>
     </td>
     <td>
       <b>Go: How to mock SCS session authentication in tests</b>
@@ -111,7 +111,7 @@
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration?utm_source=github.com&utm_medium=profile"><img width="500px" src="https://astro.build/og/social.jpg"></a>
+      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://astro.build/og/social.jpg"></a>
     </td>
     <td>
       <b>How to hash class names in Astro using astro-rename integration</b>
