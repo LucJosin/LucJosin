@@ -26,6 +26,10 @@ jobs:
           date_format: "mmm d, yyyy"
           custom_tags: "image/image/"
           item_exec: |
+            if (post.language !== 'en') {
+              post = null
+              return post
+            }
             post.image = item.enclosure.url
             post.url = post.url + "?utm_source=github.com&utm_medium=profile"
           template: |
