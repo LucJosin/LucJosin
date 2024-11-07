@@ -77,7 +77,41 @@
 <table>
     <!-- BLOG-POST-LIST:START --><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
+      <a href="https://www.lucasjosino.com/blog/hawapi-explore-the-world-of-stranger-things-using-this-api/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://repository-images.githubusercontent.com/566830817/1ee86716-d27f-4703-a003-977eca9aee8b"></a>
+    </td>
+    <td>
+      <b>HawAPI: Explore the world of Stranger Things using this API</b>
+      <br/>
+      <a href="https://www.lucasjosino.com/blog/tags/Showcase" alt="See more posts from category: Showcase">
+        <b>Showcase</b>
+      </a>
+      • 
+      Nov 6, 2024
+      <br/>
+      <i>Let&#39;s explore the HawAPI - a Free and Open Source API for Stranger Things. Learn how to use it to access characters, episodes, locations, and more!</i>
+      <br/>
+      <a href="https://www.lucasjosino.com/blog/hawapi-explore-the-world-of-stranger-things-using-this-api/?utm_source=github.com&utm_medium=profile" alt="Read post: HawAPI: Explore the world of Stranger Things using this API">Read more ➜</a>
+      </td>
+</tr><tr>
+    <td>
+      <a href="https://www.lucasjosino.com/pt/blog/hawapi-explore-the-world-of-stranger-things-using-this-api/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://repository-images.githubusercontent.com/566830817/1ee86716-d27f-4703-a003-977eca9aee8b"></a>
+    </td>
+    <td>
+      <b>HawAPI: Explore o mundo de Stranger Things usando essa API</b>
+      <br/>
+      <a href="https://www.lucasjosino.com/blog/tags/Showcase" alt="See more posts from category: Showcase">
+        <b>Showcase</b>
+      </a>
+      • 
+      Nov 6, 2024
+      <br/>
+      <i>Vamos explorar a HawAPI – uma API gratuita e de código aberto para Stranger Things. Aprenda a usá-la para acessar personagens, episódios, locais e muito mais!</i>
+      <br/>
+      <a href="https://www.lucasjosino.com/pt/blog/hawapi-explore-the-world-of-stranger-things-using-this-api/?utm_source=github.com&utm_medium=profile" alt="Read post: HawAPI: Explore o mundo de Stranger Things usando essa API">Read more ➜</a>
+      </td>
+</tr><tr>
+    <td>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
     </td>
     <td>
       <b>Spring Boot: Using the new filter for trailing slash handling</b>
@@ -90,11 +124,11 @@
       <br/>
       <i>In this tutorial, we’ll explore how to use the new UrlHandlerFilter to handle trailing slash in Spring Boot 3, including how to forward or redirect requests.</i>
       <br/>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling?utm_source=github.com&utm_medium=profile" alt="Read post: Spring Boot: Using the new filter for trailing slash handling">Read more ➜</a>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling/?utm_source=github.com&utm_medium=profile" alt="Read post: Spring Boot: Using the new filter for trailing slash handling">Read more ➜</a>
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/ZfgJzcJf/golang-session-tests.png"></a>
+      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/ZfgJzcJf/golang-session-tests.png"></a>
     </td>
     <td>
       <b>Go: How to mock SCS session authentication in tests</b>
@@ -107,24 +141,7 @@
       <br/>
       <i>In this article, we&#39;ll explore how to mock our session when using SCS and inject data into context for authentication tests.</i>
       <br/>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests?utm_source=github.com&utm_medium=profile" alt="Read post: Go: How to mock SCS session authentication in tests">Read more ➜</a>
-      </td>
-</tr><tr>
-    <td>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://astro.build/og/social.jpg"></a>
-    </td>
-    <td>
-      <b>How to hash class names in Astro using astro-rename integration</b>
-      <br/>
-      <a href="https://www.lucasjosino.com/blog/tags/How to" alt="See more posts from category: How to">
-        <b>How to</b>
-      </a>
-      • 
-      Oct 14, 2023
-      <br/>
-      <i>Learn how to use the astro-rename integration to hash all CSS class names from your Astro project.</i>
-      <br/>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration?utm_source=github.com&utm_medium=profile" alt="Read post: How to hash class names in Astro using astro-rename integration">Read more ➜</a>
+      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests/?utm_source=github.com&utm_medium=profile" alt="Read post: Go: How to mock SCS session authentication in tests">Read more ➜</a>
       </td>
 </tr><!-- BLOG-POST-LIST:END -->
 </table>
