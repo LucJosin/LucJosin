@@ -1,17 +1,19 @@
-
-
 <div align="center">
-  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucJosin#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=fff&center=true&vCenter=true&width=260&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=fff&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-dark-mode-only">
   </a>
   <a href="https://github.com/LucJosin#gh-light-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=0D1117&center=true&vCenter=true&width=260&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-light-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=0D1117&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-light-mode-only">
   </a>
- <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="35"/>
 </div>
 
 <a href="https://github.com/404"><img src="https://github.com/LucJosin/LucJosin/assets/76869974/f0a9be2d-48be-4ac6-a387-13c518b30a77"></a>
+
+<div align="center">
+  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
+  <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="35"/>
+  <img src="https://github.com/user-attachments/assets/b988144c-a1e1-4ff9-bd1f-abd2ef5b2923" width="35"/>
+</div>
 
 <p>About me:</p>
 
