@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucJosin#gh-dark-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=fff&center=true&vCenter=true&width=270&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-dark-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=fff&center=true&vCenter=true&width=260&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-dark-mode-only">
   </a>
   <a href="https://github.com/LucJosin#gh-light-mode-only">
-    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=0D1117&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-light-mode-only">
+    <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=0D1117&center=true&vCenter=true&width=260&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-light-mode-only">
   </a>
  <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="35"/>
 </div>
