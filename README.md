@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
   <a href="https://github.com/LucJosin#gh-dark-mode-only">
@@ -6,20 +8,20 @@
   <a href="https://github.com/LucJosin#gh-light-mode-only">
     <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=0D1117&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-light-mode-only">
   </a>
- <img src="./gifs/owl.gif" width="30"/>
+ <img src="https://github.com/bashbunni/bashbunni/blob/main/dancing-gopher.gif" width="35"/>
 </div>
 
 <a href="https://github.com/404"><img src="https://github.com/LucJosin/LucJosin/assets/76869974/f0a9be2d-48be-4ac6-a387-13c518b30a77"></a>
 
 <p>About me:</p>
 
-- I’m currently working on my side project: [HawAPI](https://github.com/HawAPI)
+- I'm currently working as <strong>DevSecOps Intern</strong> at [Compass UOL](https://compass.uol)
 
-- I’m currently learning about <b>Backend & APIs</b> with <b>Java</b> + <b>Spring Boot</b>
+- I'm currently coding one of my side projects: [HawAPI](https://github.com/HawAPI)
 
-- I’m looking to collaborate on <b>everything i can</b>
+- I'm currently learning about <strong>Backend & APIs</strong> with <strong>Java / Spring Boot</strong> and <strong>Golang</strong>
 
-- I ❤️ 🦉
+- I'm looking to collaborate on <strong>everything i can</strong>
 
 > ❝For in dreams we enter a world that is entirely our own. Let them swim in the deepest ocean or glide over the highest cloud.❞
 
@@ -159,3 +161,5 @@
 [![Lucas Josino profile views](https://u8views.com/api/v1/github/profiles/76869974/views/day-week-month-total-count.svg)](https://u8views.com/github/LucJosin)
 
 </div>
+
+<a href="https://github.com/404"><img src="https://github.com/LucJosin/LucJosin/assets/76869974/f0a9be2d-48be-4ac6-a387-13c518b30a77"></a>
