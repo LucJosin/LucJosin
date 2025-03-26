@@ -1,4 +1,9 @@
 <div align="center">
+  <div>
+    <img src="https://raw.githubusercontent.com/LucJosin/lucasjosino.com/6e7fc0131eb85bbaf3478cc1f39d76bf9f51584f/public/animated-logo-white.svg#gh-dark-mode-only" height="64" width="64">
+    <img src="https://raw.githubusercontent.com/LucJosin/lucasjosino.com/6e7fc0131eb85bbaf3478cc1f39d76bf9f51584f/public/animated-logo.svg#gh-light-mode-only" height="64" width="64">
+  </div>
+  <br>
   <a href="https://github.com/LucJosin#gh-dark-mode-only">
     <img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&color=fff&center=true&vCenter=true&width=280&height=20&lines=Hi+I'm+Lucas;Welcome+to+my+world;lucasjosino.com+%7C+%40Lucjosin#gh-dark-mode-only">
   </a>
