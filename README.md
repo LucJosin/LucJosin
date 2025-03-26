@@ -89,6 +89,23 @@
 <table>
     <!-- BLOG-POST-LIST:START --><tr>
     <td>
+      <a href="https://www.lucasjosino.com/blog/git-aliases-typing-less-doing-more-my-favorite-shortcuts/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://www.lucasjosino.com/static/blog/wOAJxF4A/git-aliases.png"></a>
+    </td>
+    <td>
+      <b>Git Aliases: Typing less, doing more — My favorite shortcuts</b>
+      <br/>
+      <a href="https://www.lucasjosino.com/blog/tags/Tips & Tricks" alt="See more posts from category: Tips & Tricks">
+        <b>Tips & Tricks</b>
+      </a>
+      • 
+      Mar 26, 2025
+      <br/>
+      <i>Learn how to speed up your Git usage with aliases, creating shortcuts to reduce repetitive typing, and explore some of my favorite Git command shortcuts.</i>
+      <br/>
+      <a href="https://www.lucasjosino.com/blog/git-aliases-typing-less-doing-more-my-favorite-shortcuts/?utm_source=github.com&utm_medium=profile" alt="Read post: Git Aliases: Typing less, doing more — My favorite shortcuts">Read more ➜</a>
+      </td>
+</tr><tr>
+    <td>
       <a href="https://www.lucasjosino.com/blog/hawapi-explore-the-world-of-stranger-things-using-this-api/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://repository-images.githubusercontent.com/566830817/1ee86716-d27f-4703-a003-977eca9aee8b"></a>
     </td>
     <td>
@@ -106,7 +123,7 @@
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://www.lucasjosino.com/static/blog/YcStYlHD/spring-url-filter.png"></a>
     </td>
     <td>
       <b>Spring Boot: Using the new filter for trailing slash handling</b>
@@ -137,23 +154,6 @@
       <i>In this article, we&#39;ll explore how to mock our session when using SCS and inject data into context for authentication tests.</i>
       <br/>
       <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests/?utm_source=github.com&utm_medium=profile" alt="Read post: Go: How to mock SCS session authentication in tests">Read more ➜</a>
-      </td>
-</tr><tr>
-    <td>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://astro.build/og/social.jpg"></a>
-    </td>
-    <td>
-      <b>How to hash class names in Astro using astro-rename integration</b>
-      <br/>
-      <a href="https://www.lucasjosino.com/blog/tags/How to" alt="See more posts from category: How to">
-        <b>How to</b>
-      </a>
-      • 
-      Oct 14, 2023
-      <br/>
-      <i>Learn how to use the astro-rename integration to hash all CSS class names from your Astro project.</i>
-      <br/>
-      <a href="https://www.lucasjosino.com/blog/how-to-hash-class-names-in-astro-using-astro-rename-integration/?utm_source=github.com&utm_medium=profile" alt="Read post: How to hash class names in Astro using astro-rename integration">Read more ➜</a>
       </td>
 </tr><!-- BLOG-POST-LIST:END -->
 </table>
