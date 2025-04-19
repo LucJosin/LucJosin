@@ -89,7 +89,24 @@
 <table>
     <!-- BLOG-POST-LIST:START --><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/git-aliases-typing-less-doing-more-my-favorite-shortcuts/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://www.lucasjosino.com/static/blog/wOAJxF4A/git-aliases.png"></a>
+      <a href="https://www.lucasjosino.com/blog/ci-cd-shipping-containers-to-ghcr-using-github-actions/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://rawcdn.githack.com/lucjosin/lucasjosino.com/main/public/static/blog/xFvj4iCr/actions-containers-ghcr.png"></a>
+    </td>
+    <td>
+      <b>CI/CD: Shipping containers to GHCR using GitHub Actions</b>
+      <br/>
+      <a href="https://www.lucasjosino.com/blog/tags/DevOps" alt="See more posts from category: DevOps">
+        <b>DevOps</b>
+      </a>
+      • 
+      Apr 14, 2025
+      <br/>
+      <i>In this post, let&#39;s explore DevOps by building a CI/CD workflow to ship containers to GHCR using GitHub Actions with a simple Golang web application.</i>
+      <br/>
+      <a href="https://www.lucasjosino.com/blog/ci-cd-shipping-containers-to-ghcr-using-github-actions/?utm_source=github.com&utm_medium=profile" alt="Read post: CI/CD: Shipping containers to GHCR using GitHub Actions">Read more ➜</a>
+      </td>
+</tr><tr>
+    <td>
+      <a href="https://www.lucasjosino.com/blog/git-aliases-typing-less-doing-more-my-favorite-shortcuts/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://rawcdn.githack.com/lucjosin/lucasjosino.com/main/public/static/blog/wOAJxF4A/git-aliases.png"></a>
     </td>
     <td>
       <b>Git Aliases: Typing less, doing more — My favorite shortcuts</b>
@@ -123,7 +140,7 @@
       </td>
 </tr><tr>
     <td>
-      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://www.lucasjosino.com/static/blog/YcStYlHD/spring-url-filter.png"></a>
+      <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://rawcdn.githack.com/lucjosin/lucasjosino.com/main/public/static/blog/YcStYlHD/spring-url-filter.png"></a>
     </td>
     <td>
       <b>Spring Boot: Using the new filter for trailing slash handling</b>
@@ -137,23 +154,6 @@
       <i>In this tutorial, we’ll explore how to use the new UrlHandlerFilter to handle trailing slash in Spring Boot 3, including how to forward or redirect requests.</i>
       <br/>
       <a href="https://www.lucasjosino.com/blog/spring-boot-using-the-new-filter-for-trailing-slash-handling/?utm_source=github.com&utm_medium=profile" alt="Read post: Spring Boot: Using the new filter for trailing slash handling">Read more ➜</a>
-      </td>
-</tr><tr>
-    <td>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests/?utm_source=github.com&utm_medium=profile"><img width="400px" src="https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/ZfgJzcJf/golang-session-tests.png"></a>
-    </td>
-    <td>
-      <b>Go: How to mock SCS session authentication in tests</b>
-      <br/>
-      <a href="https://www.lucasjosino.com/blog/tags/How to" alt="See more posts from category: How to">
-        <b>How to</b>
-      </a>
-      • 
-      Feb 1, 2024
-      <br/>
-      <i>In this article, we&#39;ll explore how to mock our session when using SCS and inject data into context for authentication tests.</i>
-      <br/>
-      <a href="https://www.lucasjosino.com/blog/go-how-to-mock-scs-session-authentication-in-tests/?utm_source=github.com&utm_medium=profile" alt="Read post: Go: How to mock SCS session authentication in tests">Read more ➜</a>
       </td>
 </tr><!-- BLOG-POST-LIST:END -->
 </table>
