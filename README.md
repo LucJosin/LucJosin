@@ -25,7 +25,7 @@
 
 <p>About me:</p>
 
-<!-- - I'm currently working as <strong>DevSecOps Intern</strong> at [Compass UOL](https://compass.uol) -->
+- I'm currently working as <strong>Software Engineer Intern</strong> at [Birdie AI](https://birdie.ai)
 
 - I'm currently coding one of my side projects: [HawAPI](https://github.com/HawAPI)
 
